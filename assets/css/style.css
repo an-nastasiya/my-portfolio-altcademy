@@ -304,7 +304,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 --------------------------------------------------------------*/
 /* Custom Navmenu */
 .custom-navmenu {
-  background: #0d1e2d;
+  background: #b1c6d8;
 }
 .custom-navmenu .custom-menu, .custom-navmenu .custom-menu li {
   padding: 0;
@@ -319,9 +319,9 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   color: #fff;
   padding: 10px 0 !important;
 }
-.custom-navmenu .custom-menu li a:hover {
+/* .custom-navmenu .custom-menu li a:hover {
   text-decoration: none;
-}
+} */
 .custom-navmenu .custom-menu li.active a {
   text-decoration: underline;
 }
@@ -330,7 +330,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   color: #fff;
 }
 .custom-navmenu p {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.865);
 }
 .custom-navmenu a {
   color: rgba(255, 255, 255, 0.7);
