@@ -72,6 +72,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   display: block;
   position: relative;
   overflow: hidden;
+
 }
 .item .item-wrap:after {
   z-index: 2;
@@ -462,5 +463,5 @@ li {
 #about-me{
   border-style: solid;
   max-width: 1300px;
-  
+
 }
